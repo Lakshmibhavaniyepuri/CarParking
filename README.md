@@ -51,8 +51,11 @@ It presents a modern UI to show **total slots, occupied slots, available slots, 
 ## 🚗 Dashboard Preview
 ![Dashboard 1](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/1.png)
 ![Dashboard 2](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/2.png)
+upload an input
 ![Dashboard 3](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/3.png)
+parking space available/occupied
 ![Dashboard 4](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/4.png)
+email alert
 ![Dashboard 5](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/5.png)
 
 
