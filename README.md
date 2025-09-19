@@ -50,19 +50,13 @@ It presents a modern UI to show **total slots, occupied slots, available slots, 
 
 ## 🚗 Dashboard Preview
 
-Here are some snapshots of the Car Parking Detection Dashboard:
+![Dashboard Screenshot](images/1.png)
+![Dashboard Screenshot](images/1.png)
+![Dashboard Screenshot](images/1.png)
+![Dashboard Screenshot](images/1.png)
+![Dashboard Screenshot](images/1.png)
 
-## 🚗 Dashboard Preview
 
-Here are some snapshots of the Car Parking Detection Dashboard:
-
-### 🖼️ Dashboard Screens
-
-## 🚗 Dashboard Preview
-
-Here are some snapshots of the Car Parking Detection Dashboard:
-
-### 🖼️ Dashboard Screens
 
 
 
