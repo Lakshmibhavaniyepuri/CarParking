@@ -64,21 +64,6 @@ Here are some snapshots of the Car Parking Detection Dashboard:
 
 ### 🖼️ Dashboard Screens
 
-#### 1. Home Dashboard  
-![Dashboard Screenshot 1](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/1..png)
-
-#### 2. Parking Detection Result  
-![Dashboard Screenshot 2](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/2..png)
-
-#### 3. Live Monitoring View  
-![Dashboard Screenshot 3](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/3..png)
-
-#### 4. Analytics Page  
-![Dashboard Screenshot 4](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/4..png)
-
-#### 5. User/Report Section  
-![Dashboard Screenshot 5](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/5..png)
-
 
 
 
