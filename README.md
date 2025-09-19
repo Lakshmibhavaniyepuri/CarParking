@@ -52,12 +52,18 @@ It presents a modern UI to show **total slots, occupied slots, available slots, 
 
 Here are some snapshots of the Car Parking Detection Dashboard:
 
+## 🚗 Dashboard Preview
+
+Here are some snapshots of the Car Parking Detection Dashboard:
+
 ### 🖼️ Dashboard Screens
 
-![Dashboard Screenshot 1](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/1.png)  
-![Dashboard Screenshot 2](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/2.png)
-![Dashboard Screenshot 3](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/3.png) 
-![Dashboard Screenshot 4](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/4.png)
-![Dashboard Screenshot 5](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/5.png)
+#### 1. Home Dashboard  
+![Dashboard Screenshot 1](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/1..png)
+![Dashboard Screenshot 2](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/2..png)
+![Dashboard Screenshot 3](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/3..png)
+![Dashboard Screenshot 4](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/4..png)
+![Dashboard Screenshot 5](https://raw.githubusercontent.com/Lakshmibhavaniyepuri/CarParking/main/images/5..png)
+
 
 
