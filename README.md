@@ -49,12 +49,11 @@ It presents a modern UI to show **total slots, occupied slots, available slots, 
 - **Data Binding:** Jinja2 template variables (`{{ total }}`, `{{ occupied }}`, etc.)
 
 ## 🚗 Dashboard Preview
-
-![Dashboard Screenshot](images/1.png)
-![Dashboard Screenshot](images/1.png)
-![Dashboard Screenshot](images/1.png)
-![Dashboard Screenshot](images/1.png)
-![Dashboard Screenshot](images/1.png)
+![Dashboard 1](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/1.png)
+![Dashboard 2](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/2.png)
+![Dashboard 3](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/3.png)
+![Dashboard 4](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/4.png)
+![Dashboard 5](https://github.com/Lakshmibhavaniyepuri/CarParking/blob/main/5.png)
 
 
 
